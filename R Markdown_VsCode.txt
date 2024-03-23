@@ -1,7 +1,0 @@
-'''{R}
-
-#tswtwerrew
-#sgtfergers
-x<-rnorm(20)
-hist(x)
-'''
