@@ -1,1 +1,5 @@
-{"C": 1.0, "epsilon": 0.1, "kernel": "rbf"}
+{
+    "C": 1.0,
+    "epsilon": 0.1,
+    "kernel": "rbf"
+}
